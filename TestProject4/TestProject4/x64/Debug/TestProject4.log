@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\mehme\source\repos\TestProject4\TestProject4\Source.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\mehme\source\repos\TestProject4\TestProject4\Source.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  TestProject4.vcxproj -> C:\Users\mehme\source\repos\TestProject4\x64\Debug\TestProject4.exe
