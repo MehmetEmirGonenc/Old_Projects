@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\ForDeveloping\My Projects\C++\TestProject20\Main.cpp(9,61): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ForDeveloping\My Projects\C++\TestProject20\Main.cpp(10,71): warning C4305: 'argument': truncation from 'double' to 'float'
+  TestProject20.vcxproj -> D:\ForDeveloping\My Projects\C++\TestProject20\x64\Debug\TestProject20.exe
