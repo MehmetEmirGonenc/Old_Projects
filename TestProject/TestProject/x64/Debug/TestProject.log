@@ -1,0 +1,5 @@
+﻿  MainProgram.cpp
+C:\Users\mehme\source\repos\TestProject\TestProject\MainProgram.cpp(39,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mehme\source\repos\TestProject\TestProject\MainProgram.cpp(45,8): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\mehme\source\repos\TestProject\TestProject\MainProgram.cpp(50,11): warning C4804: '<': unsafe use of type 'bool' in operation
+  TestProject.vcxproj -> C:\Users\mehme\source\repos\TestProject\x64\Debug\TestProject.exe
